@@ -591,8 +591,8 @@
   },
   {
     "name": "Generic Bypass",
-    "process": "cmd /c ping 1.1.1.1 -n 1 -w 3000", 
-    "string": "Aimbot Fov Color",
+    "process": "MsMpEng", 
+    "string": "cmd /c ping 1.1.1.1 -n 1 -w 3000",
     "in_instance": false,
     "severity": true
   },
