@@ -140,14 +140,6 @@
     "severity": false
   },
   {
-    "name": "Generic Bypass8",
-    "process": "svchost.exe",
-    "service": "dnscache",
-    "string": "s.pro",
-    "in_instance": true,
-    "severity": true
-  },
-  {
     "name": "Visted Website (Homicide)",
     "process": "chrome.exe",
     "string": "Homicide.pro",
