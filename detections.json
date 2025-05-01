@@ -1,0 +1,613 @@
+[
+  {
+    "name": "Visted Website (dma-cheat.com)",
+    "process": "chrome.exe",
+    "string": "www.dma-cheats.com",
+    "in_instance": false,
+    "severity": false
+  },
+  {
+    "name": "Visted Website (Skript.gg)",
+    "process": "chrome.exe",
+    "string": "skript.gg",
+    "in_instance": false,
+    "severity": false
+  },
+  {
+    "name": "Visted Website (eulen)",
+    "process": "chrome.exe",
+    "string": "eulencheats.com",
+    "in_instance": false,
+    "severity": false
+  },
+  {
+    "name": "Visted Website (eulen)",
+    "process": "chrome.exe",
+    "string": "eulen.cc",
+    "in_instance": false,
+    "severity": false
+  },
+  {
+    "name": "Visted Website (redengine)",
+    "process": "chrome.exe",
+    "string": "redengine.eu",
+    "in_instance": false,
+    "severity": false
+  },
+  {
+    "name": "Visted Website (hx)",
+    "process": "chrome.exe",
+    "string": "hxcheats.tech",
+    "in_instance": false,
+    "severity": false
+  },
+  {
+    "name": "Visted Website (susano)",
+    "process": "chrome.exe",
+    "string": "susano.re",
+    "in_instance": false,
+    "severity": false
+  },
+  {
+    "name": "Visted Website (gosth)",
+    "process": "chrome.exe",
+    "string": "gosth.gg",
+    "in_instance": false,
+    "severity": false
+  },
+  {
+    "name": "Visted Website (tzproject)",
+    "process": "chrome.exe",
+    "string": "tzproject.com",
+    "in_instance": false,
+    "severity": false
+  },
+  {
+    "name": "Visted Website (0xcheats)",
+    "process": "chrome.exe",
+    "string": "0xcheats.net",
+    "in_instance": false,
+    "severity": false
+  },
+  {
+    "name": "Visted Website (dma-cheat.com)",
+    "process": "brave.exe",
+    "string": "www.dma-cheats.com",
+    "in_instance": false,
+    "severity": false
+  },
+  {
+    "name": "Visted Website (Skript.gg)",
+    "process": "brave.exe",
+    "string": "skript.gg",
+    "in_instance": false,
+    "severity": false
+  },
+  {
+    "name": "Visted Website (eulen)",
+    "process": "brave.exe",
+    "string": "eulencheats.com",
+    "in_instance": false,
+    "severity": false
+  },
+  {
+    "name": "Visted Website (eulen)",
+    "process": "brave.exe",
+    "string": "eulen.cc",
+    "in_instance": false,
+    "severity": false
+  },
+  {
+    "name": "Visted Website (redengine)",
+    "process": "brave.exe",
+    "string": "redengine.eu",
+    "in_instance": false,
+    "severity": false
+  },
+  {
+    "name": "Visted Website (hx)",
+    "process": "brave.exe",
+    "string": "hxcheats.tech",
+    "in_instance": false,
+    "severity": false
+  },
+  {
+    "name": "Visted Website (susano)",
+    "process": "brave.exe",
+    "string": "susano.re",
+    "in_instance": false,
+    "severity": false
+  },
+  {
+    "name": "Visted Website (gosth)",
+    "process": "brave.exe",
+    "string": "gosth.gg",
+    "in_instance": false,
+    "severity": false
+  },
+  {
+    "name": "Visted Website (tzproject)",
+    "process": "brave.exe",
+    "string": "tzproject.com",
+    "in_instance": false,
+    "severity": false
+  },
+  {
+    "name": "Visted Website (0xcheats)",
+    "process": "brave.exe",
+    "string": "0xcheats.net",
+    "in_instance": false,
+    "severity": false
+  },
+  {
+    "name": "Generic Bypass8",
+    "process": "svchost.exe",
+    "service": "dnscache",
+    "string": "s.pro",
+    "in_instance": true,
+    "severity": true
+  },
+  {
+    "name": "Visted Website (Homicide)",
+    "process": "chrome.exe",
+    "string": "Homicide.pro",
+    "in_instance": false,
+    "severity": false
+  },
+  {
+    "name": "Visted Website (Homicide)",
+    "process": "brave.exe",
+    "string": "Homicide.pro",
+    "in_instance": false,
+    "severity": false
+  },
+  {
+    "name": "Wexize Bypass",
+    "process": "svchost.exe",
+    "service": "PcaSVC",
+    "string": "0x8a3c000",
+    "in_instance": true,
+    "severity": true
+  },
+  {
+    "name": "Xenon Cheat",
+    "process": "svchost.exe",
+    "service": "PcaSVC",
+    "string": "0xe69000",
+    "in_instance": true,
+    "severity": true
+  },
+  {
+    "name": "Xenon Cheat",
+    "process": "lsass.exe",
+    "string": "xenon-solution.xyz",
+    "in_instance": true,
+    "severity": true
+  },
+  {
+    "name": "Wexize Bypass",
+    "process": "svchost.exe",
+    "service": "DPS",
+    "string": "!2025/01/18:19:49:14!",
+    "in_instance": true,
+    "severity": true
+  },
+  {
+    "name": "Testo",
+    "process": "svchost.exe",
+    "service": "PcaSVC",
+    "string": "0x1256000",
+    "in_instance": true,
+    "severity": true
+  },
+  {
+    "name": "Susano",
+    "process": "svchost.exe",
+    "service": "DPS",
+    "string": "!2090/02/08:03:04:07!",
+    "in_instance": true,
+    "severity": true
+  },
+  {
+    "name": "Gosth",
+    "process": "svchost.exe",
+    "service": "DPS",
+    "string": "!2024/03/05:22:57:39!",
+    "in_instance": true,
+    "severity": true
+  },
+  {
+    "name": "hxsoftwares",
+    "process": "svchost.exe",
+    "service": "dnscache",
+    "string": "hxsoftwares",
+    "in_instance": false,
+    "severity": true
+  },
+  {
+    "name": "hxsoftwares",
+    "process": "lsass.exe",
+    "string": "hxsoftwares",
+    "in_instance": true,
+    "severity": true
+  },
+  {
+    "name": "TZ",
+    "process": "lsass.exe",
+    "string": "tzproject",
+    "in_instance": true,
+    "severity": true
+  },
+  {
+    "name": "TZ",
+    "process": "svchost.exe",
+    "service": "dnscache",
+    "string": "tzproject",
+    "in_instance": false,
+    "severity": true
+  },
+  {
+    "name": "TZ",
+    "process": "svchost.exe",
+    "service": "DPS",
+    "string": "!2023/11/16:19:45:47!",
+    "in_instance": true,
+    "severity": true
+  },
+  {
+    "name": "Skript.GG",
+    "process": "svchost.exe",
+    "service": "DPS",
+    "string": " !2023/02/10:05:18:04!",
+    "in_instance": true,
+    "severity": true
+  },
+  {
+    "name": "Skript.GG",
+    "process": "svchost.exe",
+    "service": "dnscache",
+    "string": "skript",
+    "in_instance": false,
+    "severity": true
+  },
+  {
+    "name": "Skript.GG",
+    "process": "dwm.exe",
+    "string": "skript",
+    "in_instance": true,
+    "severity": true
+  },
+  {
+    "name": "Skript.GG",
+    "process": "lsass.exe",
+    "string": "skript",
+    "in_instance": true,
+    "severity": true
+  },
+  {
+    "name": "Skript.GG",
+    "process": "lsass.exe",
+    "string": "skript.gg",
+    "in_instance": true,
+    "severity": true
+  },
+  {
+    "name": "Skript.GG",
+    "process": "svchost.exe",
+    "service": "DiagTrack",
+    "in_instance": true,
+    "severity": true
+  },
+  {
+    "name": "Skript.GG",
+    "process": "svchost.exe",
+    "service": "DiagTrack",
+    "in_instance": true,
+    "severity": true
+  },
+  {
+    "name": "Skript.GG",
+    "process": "svchost.exe",
+    "service": "DPS",
+    "string": "skript.gg",
+    "in_instance": true,
+    "severity": true
+  },
+  {
+    "name": "Skript.GG",
+    "process": "svchost.exe",
+    "service": "DPS",
+    "string": "skript",
+    "in_instance": true,
+    "severity": true
+  },
+  {
+    "name": "Skript.GG",
+    "process": "svchost.exe",
+    "service": "PcaSVC",
+    "in_instance": true,
+    "severity": true
+  },
+  {
+    "name": "Skript.GG",
+    "process": "svchost.exe",
+    "service": "PcaSVC",
+    "in_instance": true,
+    "severity": true
+  },
+  {
+    "name": "Skript.GG",
+    "process": "svchost.exe",
+    "service": "PcaSVC",
+    "string": "skript",
+    "in_instance": true,
+    "severity": true
+  },
+  {
+    "name": "Astro Bypass",
+    "process": "svchost.exe",
+    "service": "PcaSVC",
+    "string": "0x8f000",
+    "in_instance": true,
+    "severity": true
+  },
+  {
+    "name": "Astro Bypass",
+    "process": "lsass.exe",
+    "string": "167.114.90.195",
+    "in_instance": true,
+    "severity": true
+  },
+  {
+    "name": "Astro Bypass",
+    "process": "svchost.exe",
+    "service": "dps",
+    "string": "!2024/03/27:20:09:02",
+    "in_instance": true,
+    "severity": true
+  },
+  {
+    "name": "Sacred Bypass",
+    "process": "svchost.exe",
+    "service": "PcaSVC",
+    "string": "0x2ea6000",
+    "in_instance": true,
+    "severity": true
+  },
+  {
+    "name": "Anonimo Bypass",
+    "process": "lsass.exe",
+    "string": "eauth.to.us",
+    "in_instance": true,
+    "severity": true
+  },
+  {
+    "name": "Genesis Bypass",
+    "process": "svchost.exe",
+    "service": "dps",
+    "string": "!2024/03/18:13:31:13",
+    "in_instance": true,
+    "severity": true
+  },
+  {
+    "name": "Genesis Bypass",
+    "process": "svchost.exe",
+    "service": "PcaSVC",
+    "string": "0x2e5000",
+    "in_instance": true,
+    "severity": true
+  },
+  {
+    "name": "Nazar Bypass",
+    "process": "svchost.exe",
+    "service": "dps",
+    "string": "!2052/11/24:08:06:20",
+    "in_instance": true,
+    "severity": true
+  },
+  {
+    "name": "Nazar Bypass",
+    "process": "svchost.exe",
+    "service": "PcaSVC",
+    "string": "0x74000",
+    "in_instance": true,
+    "severity": true
+  },
+  {
+    "name": "cleaning attempt",
+    "process": "svchost.exe",
+    "service": "DiagTrack",
+    "string": "reg delete hkey_current_user\\software\\microsoft\\windows\\currentversion\\explorer\\runmru /va /f",
+    "in_instance": true,
+    "severity": false
+  },
+  {
+    "name": "cleaning attempt",
+    "process": "svchost.exe",
+    "service": "DiagTrack",
+    "string": "start /MIN cmd.exe /C \"del %windir%\\Prefetch",
+    "in_instance": true,
+    "severity": false
+  },
+  {
+    "name": "cleaning attempt",
+    "process": "svchost.exe",
+    "service": "DiagTrack",
+    "string": "fsutil usn createjournal m=2147483648 a=1 C:\\",
+    "in_instance": true,
+    "severity": false
+  },
+  {
+    "name": "cleaning attempt",
+    "process": "svchost.exe",
+    "service": "DiagTrack",
+    "string": "cmd.exe /C \"del %windir%\\Prefetch",
+    "in_instance": true,
+    "severity": false
+  },
+  {
+    "name": "cleaning attempt",
+    "process": "svchost.exe",
+    "service": "DiagTrack",
+    "string": ".pf /f /q >nul & reg delete",
+    "in_instance": true,
+    "severity": false
+  },
+  {
+    "name": "cleaning attempt",
+    "process": "svchost.exe",
+    "service": "DiagTrack",
+    "string": "fsutil usn deletejournal",
+    "in_instance": true,
+    "severity": false
+  },
+  {
+    "name": "cleaning attempt",
+    "process": "svchost.exe",
+    "service": "DiagTrack",
+    "string": "fsutil usn deletejournal /d c:",
+    "in_instance": true,
+    "severity": false
+  },
+  {
+    "name": "cleaning attempt",
+    "process": "svchost.exe",
+    "service": "DiagTrack",
+    "string": "fsutil usn deletejournal /d d:",
+    "in_instance": true,
+    "severity": false
+  },
+  {
+    "name": "keyauth connected",
+    "process": "lsass.exe",
+    "string": "keyauth.win",
+    "in_instance": false,
+    "severity": false
+  },
+  {
+    "name": "keyauth connected",
+    "process": "lsass.exe",
+    "string": "keyauth.cc",
+    "in_instance": false,
+    "severity": false
+  },
+  {
+    "name": "Generic cheat",
+    "process": "FiveM_GTAProcess.exe",
+    "string": "d3d11hook.cpp",
+    "in_instance": true,
+    "severity": true
+  },
+  {
+    "name": "Generic cheat",
+    "process": "FiveM_GTAProcess.exe",
+    "string": "rijndael_simd.cpp",
+    "in_instance": true,
+    "severity": true
+  },
+  {
+    "name": "Generic cheat",
+    "process": "FiveM_GTAProcess.exe",
+    "string": "sha_simd.cpp",
+    "in_instance": true,
+    "severity": true
+  },
+  {
+    "name": "Generic cheat",
+    "process": "FiveM_GTAProcess.exe",
+    "string": "gf2n_simd.cpp",
+    "in_instance": true,
+    "severity": true
+  },
+  {
+    "name": "Generic cheat",
+    "process": "FiveM_GTAProcess.exe",
+    "string": "normaliz.pdb",
+    "in_instance": true,
+    "severity": true
+  },
+  {
+    "name": "Generic cheat",
+    "process": "FiveM_GTAProcess.exe",
+    "string": "menu/##",
+    "in_instance": true,
+    "severity": true
+  },
+  {
+    "name": "Generic cheat",
+    "process": "FiveM_GTAProcess.exe",
+    "string": "d3d11bltdxgi.hpp",
+    "in_instance": true,
+    "severity": true
+  },
+  {
+    "name": "Generic cheat",
+    "process": "FiveM_GTAProcess.exe",
+    "string": "TP Pier",
+    "in_instance": true,
+    "severity": true
+  },
+  {
+    "name": "Generic cheat",
+    "process": "FiveM_GTAProcess.exe",
+    "string": "TP Paleto Bay",
+    "in_instance": true,
+    "severity": true
+  },
+  {
+    "name": "Generic cheat",
+    "process": "FiveM_GTAProcess.exe",
+    "string": "Aimbot Target",
+    "in_instance": true,
+    "severity": true
+  },
+  {
+    "name": "Generic cheat",
+    "process": "FiveM_GTAProcess.exe",
+    "string": "Aimbot_Enable",
+    "in_instance": true,
+    "severity": true
+  },
+  {
+    "name": "Generic cheat",
+    "process": "FiveM_GTAProcess.exe",
+    "string": "Aimbot_maxDistance",
+    "in_instance": true,
+    "severity": true
+  },
+  {
+    "name": "Generic cheat",
+    "process": "FiveM_GTAProcess.exe",
+    "string": "Aimbot FOV",
+    "in_instance": true,
+    "severity": true
+  },
+  {
+    "name": "Generic cheat",
+    "process": "FiveM_GTAProcess.exe",
+    "string": "Aimbot Fov Color",
+    "in_instance": true,
+    "severity": true
+  },
+  {
+    "name": "Generic Bypass",
+    "process": "cmd /c ping 1.1.1.1 -n 1 -w 3000", 
+    "string": "Aimbot Fov Color",
+    "in_instance": false,
+    "severity": true
+  },
+  {
+    "name": "Generic Bypass",
+    "process": "obs64.exe",
+    "string": "SpawnWeapon.pbd",
+    "in_instance": true,
+    "severity": true
+  },
+  {
+    "name": "cleaning attempt",
+    "process": "MsMpEng",
+    "string": "reg delete",
+    "in_instance": false,
+    "severity": true
+  }
+]
