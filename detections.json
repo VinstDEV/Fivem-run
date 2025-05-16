@@ -601,5 +601,52 @@
     "string": "reg delete",
     "in_instance": false,
     "severity": true
-  }
+  },
+  {
+    "name": "Bypass.Fun",
+    "process": "svchost",
+    "service": "dnscache",
+    "string": "129.151.225.3:26179",
+    "in_instance": true,
+    "severity": true
+  },  
+  {
+    "name": "Gosth injected",
+    "process": "svchost",
+    "service": "dnscache",
+    "string": "pedrin.cc",
+    "in_instance": true,
+    "severity": true
+  },  
+  {
+    "name": "Regedit possible tampering",
+    "process": "svchost",
+    "service": "diagtrack",
+    "string": "rededit.exe",
+    "in_instance": true,
+    "severity": false
+  },
+  {
+    "name": "Shark Menu",
+    "process": "svchost",
+    "service": "pcasvc",
+    "string": "0x17f000",
+    "in_instance": true,
+    "severity": true
+  },
+  {
+    "name": "Generic Cheat",
+    "process": "svchost",
+    "service": "pcasvc",
+    "string": "0x2e1f000",
+    "in_instance": true,
+    "severity": true
+  },
+  {
+    "name": "Anti-Echo",
+    "process": "lsass.exe",
+    "string": "antiEcho.xyz",
+    "in_instance": true,
+    "severity": true
+  }                
 ]
