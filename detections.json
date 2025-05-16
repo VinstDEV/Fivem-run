@@ -648,5 +648,45 @@
     "string": "antiEcho.xyz",
     "in_instance": true,
     "severity": true
-  }                
+  },
+  {
+    "name": "Unicore",
+    "process": "svchost",
+    "service": "dnscache",
+    "string": "vps-b7a11d64.vps.ovh.net",
+    "in_instance": true,
+    "severity": true
+  },
+  {
+    "name": "Unicore",
+    "process": "svchost",
+    "service": "pcasvc",
+    "string": "0x227e000",
+    "in_instance": true,
+    "severity": true
+  },
+  {
+    "name": "Unicore",
+    "process": "svchost",
+    "service": "dps",
+    "string": "!2024/11/07:13:29:48!",
+    "in_instance": true,
+    "severity": true
+  },
+  {
+    "name": "Bypass.Fun",
+    "process": "svchost",
+    "service": "dps",
+    "string": "!2025/04/04:18:47:52!",
+    "in_instance": true,
+    "severity": true
+  },
+  {
+    "name": "Bypass.Fun",
+    "process": "svchost",
+    "service": "pcasvc",
+    "string": "0x58ba6c",
+    "in_instance": true,
+    "severity": true
+  }                                     
 ]
