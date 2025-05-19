@@ -604,7 +604,7 @@
   },
   {
     "name": "Bypass.Fun",
-    "process": "svchost",
+    "process": "svchost.exe",
     "service": "dnscache",
     "string": "129.151.225.3:26179",
     "in_instance": true,
@@ -612,7 +612,7 @@
   },  
   {
     "name": "Gosth injected",
-    "process": "svchost",
+    "process": "svchost.exe",
     "service": "dnscache",
     "string": "pedrin.cc",
     "in_instance": true,
@@ -620,7 +620,7 @@
   },  
   {
     "name": "Regedit possible tampering",
-    "process": "svchost",
+    "process": "svchost.exe",
     "service": "diagtrack",
     "string": "rededit.exe",
     "in_instance": true,
@@ -628,7 +628,7 @@
   },
   {
     "name": "Shark Menu",
-    "process": "svchost",
+    "process": "svchost.exe",
     "service": "pcasvc",
     "string": "0x17f000",
     "in_instance": true,
@@ -636,7 +636,7 @@
   },
   {
     "name": "Generic Cheat",
-    "process": "svchost",
+    "process": "svchost.exe",
     "service": "pcasvc",
     "string": "0x2e1f000",
     "in_instance": true,
@@ -651,7 +651,7 @@
   },
   {
     "name": "Unicore",
-    "process": "svchost",
+    "process": "svchost.exe",
     "service": "dnscache",
     "string": "vps-b7a11d64.vps.ovh.net",
     "in_instance": true,
@@ -659,7 +659,7 @@
   },
   {
     "name": "Unicore",
-    "process": "svchost",
+    "process": "svchost.exe",
     "service": "pcasvc",
     "string": "0x227e000",
     "in_instance": true,
@@ -667,7 +667,7 @@
   },
   {
     "name": "Unicore",
-    "process": "svchost",
+    "process": "svchost.exe",
     "service": "dps",
     "string": "!2024/11/07:13:29:48!",
     "in_instance": true,
@@ -675,7 +675,7 @@
   },
   {
     "name": "Bypass.Fun",
-    "process": "svchost",
+    "process": "svchost.exe",
     "service": "dps",
     "string": "!2025/04/04:18:47:52!",
     "in_instance": true,
@@ -683,10 +683,208 @@
   },
   {
     "name": "Bypass.Fun",
-    "process": "svchost",
+    "process": "svchost.exe",
     "service": "pcasvc",
     "string": "0x58ba6c",
     "in_instance": true,
     "severity": true
-  }                                     
+  },
+  {
+    "name": "Gosth",
+    "process": "svchost.exe",
+    "service": "dnscahce",
+    "string": "131.196.198.0-24.bbhost.com.br",
+    "in_instance": true,
+    "severity": true
+  },
+  {
+    "name": "Gosth",
+    "process": "chrome.exe",
+    "string": "https://cdn.gosth.ltd/launcher.exe",
+    "in_instance": false,
+    "severity": true
+  },
+  {
+    "name": "Gosth",
+    "process": "brave.exe",
+    "string": "https://cdn.gosth.ltd/launcher.exe",
+    "in_instance": false,
+    "severity": true
+  },
+  {
+    "name": "Susano",
+    "process": "svchost.exe",
+    "service": "dps",
+    "string": "!2025/04/17:14:46:56!",
+    "in_instance": true,
+    "severity": true
+  },
+  {
+    "name": "Susano",
+    "process": "svchost.exe",
+    "service": "pcasvc",
+    "string": "0x3bbd000",
+    "in_instance": true,
+    "severity": true
+  },
+  {
+    "name": "Susano",
+    "process": "svchost.exe",
+    "service": "dnscache",
+    "string": "api.susano.re",
+    "in_instance": false,
+    "severity": true
+  },
+  {
+    "name": "Susano",
+    "process": "lsass.exe",
+    "string": "api.susano.re",
+    "in_instance": true,
+    "severity": true
+  },
+  {
+    "name": "Susano",
+    "process": "FiveM_GTAProcess.exe",
+    "string": "api.susano.re",
+    "in_instance": true,
+    "severity": true
+  },
+  {
+    "name": "RedEngine",
+    "process": "svchost.exe",
+    "service": "dps",
+    "string": "!2025/04/27:09:38:40!",
+    "in_instance": true,
+    "severity": true
+  },
+  {
+    "name": "RedEngine",
+    "process": "svchost.exe",
+    "service": "pcasvc",
+    "string": "0x2418000",
+    "in_instance": true,
+    "severity": true
+  },
+  {
+    "name": "RedEngine",
+    "process": "svchost.exe",
+    "service": "dnscache",
+    "string": "falcon.redengine.eu",
+    "in_instance": true,
+    "severity": true
+  },
+  {
+    "name": "Keyser",
+    "process": "svchost.exe",
+    "service": "dnscache",
+    "string": "api.keyser-lts.com",
+    "in_instance": false,
+    "severity": true
+  },
+  {
+    "name": "Keyser",
+    "process": "svchost.exe",
+    "service": "dnscache",
+    "string": "keyser-lts.com",
+    "in_instance": false,
+    "severity": true
+  },
+  {
+    "name": "Keyser",
+    "process": "FiveM_GTAProcess.exe",
+    "string": "keyser-lts.com",
+    "in_instance": true,
+    "severity": true
+  },
+  {
+    "name": "Keyser",
+    "process": "FiveM_GTAProcess.exe",
+    "string": "api.keyser-lts.com",
+    "in_instance": true,
+    "severity": true
+  },
+  {
+    "name": "Keyser",
+    "process": "lsass.exe",
+    "string": "keyser-lts.com",
+    "in_instance": true,
+    "severity": true
+  },
+  {
+    "name": "unicore",
+    "process": "FiveM_GTAProcess.exe",
+    "string": "unicore",
+    "in_instance": true,
+    "severity": true
+  },
+  {
+    "name": "MachoCheats",
+    "process": "svchost.exe",
+    "service": "dnscache",
+    "string": "machocheats.com",
+    "in_instance": false,
+    "severity": true
+  },
+  {
+    "name": "MachoCheats",
+    "process": "FiveM_GTAProcess.exe",
+    "string": "machocheats.com",
+    "in_instance": true,
+    "severity": true
+  },
+  {
+    "name": "MachoCheats",
+    "process": "lsass.exe",
+    "string": "machocheats.com",
+    "in_instance": true,
+    "severity": true
+  },
+  {
+    "name": "Eulen",
+    "process": "svchost.exe",
+    "service": "dnscache",
+    "string": "ec2-3-235-182-75.compute-1.amazonaws.com",
+    "in_instance": false,
+    "severity": true
+  },
+  {
+    "name": "Eulen",
+    "process": "svchost.exe",
+    "service": "dnscache",
+    "string": "ec2-3-235-182-71.compute-1.amazonaws.com",
+    "in_instance": false,
+    "severity": true
+  },
+  {
+    "name": "Eulen",
+    "process": "svchost.exe",
+    "service": "dnscache",
+    "string": "ec2-3-235-182-72.compute-1.amazonaws.com",
+    "in_instance": false,
+    "severity": true
+  },
+  {
+    "name": "Eulen",
+    "process": "svchost.exe",
+    "service": "dnscache",
+    "string": "ec2-3-235-182-74.compute-1.amazonaws.com",
+    "in_instance": false,
+    "severity": true
+  },
+  {
+    "name": "Eulen",
+    "process": "svchost.exe",
+    "service": "dnscache",
+    "string": "ec2-3-235-182-76.compute-1.amazonaws.com",
+    "in_instance": false,
+    "severity": true
+  },
+  {
+    "name": "HX",
+    "process": "svchost.exe",
+    "service": "pcasvc",
+    "string": "0xf93000",
+    "in_instance": true,
+    "severity": true
+  }                                                                   
 ]
