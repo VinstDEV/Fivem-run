@@ -937,7 +937,7 @@
   {
     "name": "TZX",
     "process": "svchost.exe",
-    "service": "pcasvc"
+    "service": "pcasvc",
     "string": "0xf19000",
     "in_instance": true,
     "severity": true
