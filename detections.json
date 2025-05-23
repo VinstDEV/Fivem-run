@@ -945,7 +945,7 @@
   {
     "name": "TZX",
     "process": "svchost.exe",
-    "service": "dnscache"
+    "service": "dnscache",
     "string": "api.tzproject.com",
     "in_instance": false,
     "severity": true
